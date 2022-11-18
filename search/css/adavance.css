@@ -1,0 +1,9 @@
+.my-nav{
+    position: relative;
+}
+
+.my-nav-right{
+    position: absolute;
+    right: 400px;
+    top: 0;
+}
